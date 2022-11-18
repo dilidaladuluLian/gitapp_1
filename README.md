@@ -4,4 +4,4 @@ Lian git demo
 ## Git practice 
 ### git 指弄
 。git init
-。
+。git status
